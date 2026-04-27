@@ -15,7 +15,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23ff6a00?style=for-the-badge&logo=linkedin&logoColor=0d0a07&labelColor=0d0a07)](https://linkedin.com/in/kanishka-gole)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23ff6a00?style=for-the-badge&logo=linkedin&logoColor=0d0a07&labelColor=0d0a07&logoWidth=20)](https://linkedin.com/in/kanishka-gole)
 [![Email](https://img.shields.io/badge/EMAIL-%23ff9a3c?style=for-the-badge&logo=gmail&logoColor=0d0a07&labelColor=0d0a07)](mailto:kanishkagole@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23ff6a00?style=for-the-badge&logo=github&logoColor=0d0a07&labelColor=0d0a07)](https://github.com/KanishkaGole)
 
@@ -24,20 +24,37 @@
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=999999&color=FF6A00&center=true&vCenter=true&width=200&height=30&lines=LANGUAGES" alt="Languages"/>
+</div>
 
-### Languages
+<div align="center">
+
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org)&nbsp;
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)
 
-### AI / ML
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=999999&color=FF6A00&center=true&vCenter=true&width=200&height=30&lines=AI+%2F+ML" alt="AI ML"/>
+</div>
+
+<div align="center">
+
 [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)&nbsp;
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)&nbsp;
 [![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)](https://opencv.org)&nbsp;
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0a07?style=for-the-badge&logo=scikit-learn&logoColor=ff6a00)](https://scikit-learn.org)
 
-### Backend & DevOps
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=999999&color=FF6A00&center=true&vCenter=true&width=260&height=30&lines=BACKEND+%26+DEVOPS" alt="Backend DevOps"/>
+</div>
+
+<div align="center">
+
 [![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)&nbsp;
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com)&nbsp;
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)&nbsp;
@@ -50,32 +67,35 @@
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=999999&color=FF6A00&center=true&vCenter=true&width=260&height=30&lines=FEATURED+PROJECTS" alt="Projects"/>
+</div>
+
+<div align="center">
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| `01` | [**Sovereign Ledger (Blockchain Land Registry)**](https://github.com/KanishkaGole/Sovereign-Ledger-Land-Repository-Blockchain-System) | Blockchain-based land registration system to eliminate fraud, reduce paperwork, and ensure immutable ownership records. | `blockchain` `css` `web3` |
-| `02` | [**Gesture Surfers (Hand-Controlled Game)**](https://github.com/KanishkaGole/Gesture-Surfers-Hand-Controlled-Endless-Runner) | Subway Surfers-style endless runner controlled using real-time hand gestures via MediaPipe & OpenCV. | `mediapipe` `opencv` `pygame` |
+| `01` | [**Sovereign Ledger**](https://github.com/KanishkaGole/Sovereign-Ledger-Land-Repository-Blockchain-System) | Blockchain-based land registration system to eliminate fraud and ensure immutable ownership records. | `blockchain` `css` `web3` |
+| `02` | [**Gesture Surfers**](https://github.com/KanishkaGole/Gesture-Surfers-Hand-Controlled-Endless-Runner) | Subway Surfers-style endless runner controlled using real-time hand gestures via MediaPipe & OpenCV. | `mediapipe` `opencv` `pygame` |
 | `03` | [**AI Gym Trainer**](https://github.com/KanishkaGole/AI-Gym-Trainer) | AI-powered fitness assistant using pose estimation and temporal transformers for rep counting and posture correction. | `python` `mediapipe` `transformers` |
-| `04` | [**GENAI OCR (Image Text Detection)**](https://github.com/KanishkaGole/GENAI-OCR-Image-Detection) | OCR system supporting Marathi & English using Tesseract + Gemini AI for intelligent text refinement. | `tesseract` `genai` `streamlit` |
-| `05` | [**Stock Price Prediction ML**](https://github.com/KanishkaGole/Stock-Price-Prediction-ML-Regression) | ML models for stock forecasting with interactive Streamlit dashboard and model comparison tools. | `ml` `regression` `streamlit` |
-| `06` | [**Music Recommender System**](https://github.com/KanishkaGole/Music-Recommender-System) | Recommendation engine using collaborative and content-based filtering on music datasets. | `python` `ml` `recommendation` |
-| `07` | [**Diabetes Prediction (MLP App)**](https://github.com/KanishkaGole/Diabetes_Multi_Layer_Perceptron) | Web-based diabetes risk prediction using a Keras MLP model with FastAPI backend. | `keras` `fastapi` `ml` |
-| `08` | [**Auction App (Full Stack)**](https://github.com/KanishkaGole/Auction-App) | Full-stack auction system with backend APIs, SQL integration, and frontend interface. | `nodejs` `sql` `python` |
-| `09` | [**GitHub Profile Config**](https://github.com/KanishkaGole/KanishkaGole) | Configuration repository for GitHub profile README and personal branding setup. | `markdown` `github` |
+| `04` | [**GENAI OCR**](https://github.com/KanishkaGole/GENAI-OCR-Image-Detection) | OCR system supporting Marathi & English using Tesseract + Gemini AI for intelligent text refinement. | `tesseract` `genai` `streamlit` |
+| `05` | [**Stock Prediction ML**](https://github.com/KanishkaGole/Stock-Price-Prediction-ML-Regression) | ML models for stock forecasting with interactive Streamlit dashboard and model comparison tools. | `ml` `regression` `streamlit` |
+| `06` | [**Music Recommender**](https://github.com/KanishkaGole/Music-Recommender-System) | Recommendation engine using collaborative and content-based filtering on music datasets. | `python` `ml` `recommendation` |
+| `07` | [**Diabetes Prediction**](https://github.com/KanishkaGole/Diabetes_Multi_Layer_Perceptron) | Web-based diabetes risk prediction using a Keras MLP model with FastAPI backend. | `keras` `fastapi` `ml` |
+| `08` | [**Auction App**](https://github.com/KanishkaGole/Auction-App) | Full-stack auction system with backend APIs, SQL integration, and frontend interface. | `nodejs` `sql` `python` |
 
 </div>
 
 ---
 
-```bash
-visitor@github:~/KanishkaGole$ cat metrics.json
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=999999&color=FF6A00&center=true&vCenter=true&width=200&height=30&lines=METRICS" alt="Metrics"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanishkaGole&show_icons=true&theme=dark&bg_color=0d0a07&border_color=ff6a0033&title_color=ff6a00&icon_color=ff9a3c&text_color=ffe0c8&hide_border=false" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KanishkaGole&show_icons=true&theme=dark&bg_color=0d0a07&border_color=ff6a0033&title_color=ff6a00&icon_color=ff9a3c&text_color=ffe0c8&hide_border=false&custom_title=GITHUB+STATS" height="165px"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaGole&layout=compact&theme=dark&bg_color=0d0a07&border_color=ff6a0033&title_color=ff6a00&text_color=ffe0c8" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaGole&layout=compact&theme=dark&bg_color=0d0a07&border_color=ff6a0033&title_color=ff6a00&text_color=ffe0c8&custom_title=TOP+LANGUAGES" height="165px"/>
 
 <br/><br/>
 
@@ -87,11 +107,7 @@ visitor@github:~/KanishkaGole$ cat metrics.json
 
 <div align="center">
 
-```
-> "Always code as if the guy who ends up maintaining your code
->  will be a violent psychopath who knows where you live."
->                                              — John Woods
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=11&pause=999999&color=7a4a2a&center=true&vCenter=true&width=680&height=50&lines=%22Always+code+as+if+the+maintainer+is+a+violent+psychopath+who+knows+where+you+live.%22" alt="Quote"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a3c22,50:ff6a0022,100:0d0a07&height=80&section=footer" width="100%"/>
 
