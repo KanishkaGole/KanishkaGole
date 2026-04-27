@@ -82,6 +82,7 @@
 | `06` | [**Music Recommender**](https://github.com/KanishkaGole/Music-Recommender-System) | Recommendation engine using collaborative and content-based filtering on music datasets. | `python` `ml` `recommendation` |
 | `07` | [**Diabetes Prediction**](https://github.com/KanishkaGole/Diabetes_Multi_Layer_Perceptron) | Web-based diabetes risk prediction using a Keras MLP model with FastAPI backend. | `keras` `fastapi` `ml` |
 | `08` | [**Auction App**](https://github.com/KanishkaGole/Auction-App) | Full-stack auction system with backend APIs, SQL integration, and frontend interface. | `nodejs` `sql` `python` |
+| `09` | [**Suspicious Human Detection System**](https://github.com/KanishkaGole/Suspicious-Human-Detection-System) | Real-time surveillance system that detects anomalous human activities using computer vision and deep learning for enhanced security monitoring. | `python` `opencv` `cnn` `cv` |
 
 </div>
 
