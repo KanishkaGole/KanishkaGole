@@ -11,7 +11,11 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FF6A00&center=true&vCenter=true&width=500&lines=AI+Engineer;I+build+systems+that+bridge+humans+%2B+AI;%3E+whoami??+--+kanishka.gole" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%24+whoami;kanishka.gole;AI+Engineer+%7C+Backend+Systems;Building+Human+%2B+AI+Intelligence;Systems+%3E+Scripts;Code.+Scale.+Repeat.;%24+echo+%22Welcome+to+my+GitHub%22" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
