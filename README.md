@@ -11,7 +11,7 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=1200&color=FF6A00&center=true&vCenter=true&width=500&lines=AI+Engineer;I+build+systems+that+bridge+humans" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=1200&color=FF6A00&center=true&vCenter=true&width=500&lines=AI+Engineer;I+build+systems+that+bridge+humans+%2B+AI;%3E+Qualification??+--+MBA_TECH_AI" alt="Typing SVG" />
 
 <br/>
 
