@@ -15,7 +15,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23ff6a00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0d0a07&logoWidth=20)](https://www.linkedin.com/in/kanishka-a-k-gole)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23ff6a00?style=for-the-badge&logo=linkedin&logoColor=0d0a07&labelColor=0d0a07&logoWidth=20)](https://www.linkedin.com/in/kanishka-a-k-gole)
 [![Email](https://img.shields.io/badge/EMAIL-%23ff9a3c?style=for-the-badge&logo=gmail&logoColor=0d0a07&labelColor=0d0a07)](mailto:kanishkagole2020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23ff6a00?style=for-the-badge&logo=github&logoColor=0d0a07&labelColor=0d0a07)](https://github.com/KanishkaGole)
 
