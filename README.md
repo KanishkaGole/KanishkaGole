@@ -23,31 +23,6 @@
 
 ---
 
-```bash
-visitor@github:~/KanishkaGole$ cat about.txt
-```
-
-> I build **intelligent systems** at the intersection of backend architecture and computer vision.
-> Currently exploring gesture-controlled interfaces and high-performance distributed services.
-> Once controlled a video game using just my hands. Still think about it.
-
-```bash
-visitor@github:~/KanishkaGole$ cat status.log
-```
-
-```
-[ACTIVE]   Building  →  Gesture Controlled Gaming Systems
-[ACTIVE]   Learning  →  Advanced Transformer Architectures & Distributed Systems
-[OPEN]     Collab    →  Open Source AI Projects
-[READY]    Ask me    →  Python · Docker · OpenCV
-```
-
----
-
-```bash
-visitor@github:~/KanishkaGole$ ls -la stack/
-```
-
 <div align="center">
 
 ### Languages
@@ -74,22 +49,23 @@ visitor@github:~/KanishkaGole$ ls -la stack/
 
 ---
 
-```bash
-visitor@github:~/KanishkaGole$ ls projects/ --sort=stars
-```
-
 <div align="center">
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| `01` | [**Subway Surfers Gesture Control**](https://github.com/KanishkaGole/Kanishka-Subway-Surfers) | Play Subway Surfers hands-free. MediaPipe tracks hand landmarks in real-time and maps gestures to game inputs via Pygame. | `mediapipe` `opencv` `pygame` |
-| `02` | [**Activity Transformer**](https://github.com/KanishkaGole/Activity-Transformer) | High-efficiency HAR model using Transformer architecture, optimised for real-time inference with low latency. | `pytorch` `transformers` `python` |
-| `03` | [**Stock Prediction Bot**](https://github.com/KanishkaGole/Stock-Price-Prediction) | LSTM-based stock trend predictor wrapped in a Dockerized Streamlit app. Fully containerized and production-ready. | `lstm` `streamlit` `docker` |
+| `01` | [**Sovereign Ledger (Blockchain Land Registry)**](https://github.com/KanishkaGole/Sovereign-Ledger-Land-Repository-Blockchain-System) | Blockchain-based land registration system to eliminate fraud, reduce paperwork, and ensure immutable ownership records. | `blockchain` `css` `web3` |
+| `02` | [**Gesture Surfers (Hand-Controlled Game)**](https://github.com/KanishkaGole/Gesture-Surfers-Hand-Controlled-Endless-Runner) | Subway Surfers-style endless runner controlled using real-time hand gestures via MediaPipe & OpenCV. | `mediapipe` `opencv` `pygame` |
+| `03` | [**AI Gym Trainer**](https://github.com/KanishkaGole/AI-Gym-Trainer) | AI-powered fitness assistant using pose estimation and temporal transformers for rep counting and posture correction. | `python` `mediapipe` `transformers` |
+| `04` | [**GENAI OCR (Image Text Detection)**](https://github.com/KanishkaGole/GENAI-OCR-Image-Detection) | OCR system supporting Marathi & English using Tesseract + Gemini AI for intelligent text refinement. | `tesseract` `genai` `streamlit` |
+| `05` | [**Stock Price Prediction ML**](https://github.com/KanishkaGole/Stock-Price-Prediction-ML-Regression) | Machine learning models for stock forecasting with interactive Streamlit dashboard and comparison tools. | `ml` `regression` `streamlit` |
+| `06` | [**Music Recommender System**](https://github.com/KanishkaGole/Music-Recommender-System) | Recommendation system using collaborative and content-based filtering on music datasets. | `python` `ml` `recommendation` |
+| `07` | [**Diabetes Prediction (MLP App)**](https://github.com/KanishkaGole/Diabetes_Multi_Layer_Perceptron) | Web-based diabetes risk prediction using a Keras MLP model with FastAPI backend. | `keras` `fastapi` `ml` |
+| `08` | [**Auction App (Full Stack)**](https://github.com/KanishkaGole/Auction-App) | Full-stack auction system with backend APIs, SQL integration, and frontend interface. | `nodejs` `sql` `python` |
+| `09` | [**GitHub Profile Config**](https://github.com/KanishkaGole/KanishkaGole) | Configuration repository for GitHub profile README and personal branding setup. | `markdown` `github` |
 
 </div>
 
 ---
-
 ```bash
 visitor@github:~/KanishkaGole$ cat metrics.json
 ```
