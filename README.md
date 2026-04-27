@@ -11,7 +11,7 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+AI+Practitioner;Computer+Vision+%7C+Backend+Architecture;Building+systems+that+bridge+human+%2B+machine;%3E+whoami+--+kanishka.gole" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=AI+Engineer;I+build+systems+that+bridge+human+%2B+AI;%3E+whoami+--+kanishka.gole" alt="Typing SVG" />
 
 <br/>
 
